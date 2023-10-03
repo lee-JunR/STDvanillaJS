@@ -1,14 +1,4 @@
-body{
-    background-color: beige;
-}
-
-h1 {
-    color : cornflowerblue;
-}
-.active{
-    color : tomato;
-}
-
-.sexy-font{
-    font-family: 'Courier New', Courier, monospace;
+/*이 클래스를 부여하면 페이지 내에서 보이지 않음.*/
+.hidden{
+    display: none;
 }
